@@ -1,9 +1,9 @@
 # Hi, I'm Gungun 
 
-- BTech CSE (IoT) Student
-- Interested in Data Analytics, IoT & AI
-- Passionate about solving real-world problems using data and technology
-- 
+* BTech CSE (IoT) Student
+* Interested in Data Analytics, IoT & AI
+* Passionate about solving real-world problems using data and technology
+  
 ##  Skills
 
 *  Python, Pandas, NumPy
