@@ -16,8 +16,9 @@
 
 *  Netflix Content Strategy Analysis
 * Sales Performance Dashboard
-* Smart Air Quality Monitoring System (IoT Simulation)
-* Driver Drowsiness Detection System
+* Weather Prediction System 
+* Driver Drowsiness Detection System(Team project)
+* Hospital Management system (Team prorject)
 
 
 ## Currently Learning
