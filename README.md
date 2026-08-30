@@ -8,17 +8,19 @@
 
 *  Python, Pandas, NumPy
 *  Data Visualization (Power BI, Tableau)
-*  Basics of Machine Learning
+*  Machine Learning
+*  Deep Learning
 *  OpenCV (Computer Vision)
 *  IoT (Simulated Systems & Concepts)
 
 ## Projects
 
-*  Netflix Content Strategy Analysis
+* Netflix Content Strategy Analysis
 * Sales Performance Dashboard
 * Weather Prediction System 
 * Driver Drowsiness Detection System(Team project)
 * Hospital Management system (Team prorject)
+* Student Performance Prediction 
 
 
 ## Currently Learning
