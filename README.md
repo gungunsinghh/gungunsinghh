@@ -63,7 +63,7 @@ I enjoy exploring how data and technology can be used to understand problems and
 - Netflix Content Strategy Analysis
 - Sales Performance Dashboard
 - Weather Prediction System
-- RailVision
+- RailVision -Team Project
 - Driver Drowsiness Detection System — Team Project
 - Hospital Management System — Team Project
 - Student Performance Prediction
@@ -74,11 +74,8 @@ I enjoy exploring how data and technology can be used to understand problems and
 
 ## 🌱 Currently Learning
 
-- Machine Learning
-- Deep Learning
 - Generative AI, LLMs & RAG
 - OpenCV & Computer Vision
-- SQL & Data Analytics
 - Real-world IoT Systems
 
 ---
@@ -97,7 +94,7 @@ I enjoy exploring how data and technology can be used to understand problems and
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gungun-singh-250561306/)
 
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gungunsingh0103@gmail.com)
 
 ---
 
