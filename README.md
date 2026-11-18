@@ -74,6 +74,4 @@ I enjoy exploring how data and technology can be used to understand problems and
 
 \<p align="center">   \<i>"Curiosity drives discovery. Consistency turns ideas into reality."\</i> ✨ \</p>
 
-\<p align="center">
-&#x20; Thanks for visiting my profile! 🌱
-\</p>
+\<p align="center">   Thanks for visiting my profile! 🌱 \</p>
